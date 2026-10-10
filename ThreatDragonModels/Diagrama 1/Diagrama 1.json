@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "Diagrama 1",
+    "owner": "Luis",
+    "description": "Proceso de creacion de diagramas ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de procesos",
+        "diagramType": "PLOT4ai",
+        "placeholder": "Descripción de nuevo diagrama PLOT4ai",
+        "thumbnail": "./public/content/images/thumbnail.plot4ai.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Luis",
+    "threatTop": 0
+  }
+}
